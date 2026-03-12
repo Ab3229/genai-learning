@@ -94,3 +94,14 @@ The system processes the speech input, sends the query to the AI model, and resp
 "The Prime Minister of India is Narendra Modi."
 
 ---
+## 🎥 Project Demo Video
+
+Watch the working demo of the **AI Voice Assistant** here:
+
+🔗 [Watch the Demo Video](https://drive.google.com/file/d/15PpuXxQlNF6CO4ZbVZXsFo5ewJASth4c/view?usp=drive_link)
+
+The video demonstrates:
+- Voice input processing
+- Speech-to-text conversion
+- AI response generation using Gemini
+- Text-to-speech output
